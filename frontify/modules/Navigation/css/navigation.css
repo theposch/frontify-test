@@ -1,0 +1,8 @@
+.mod-navigation {
+  font-family: arial, sans-serif;
+  padding: 15px;
+}
+.mod-navigation li a {
+  color: #444;
+  line-height: 1.4;
+}
